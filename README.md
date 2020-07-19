@@ -1,4 +1,4 @@
-# my-youtube-app
+# MY-YOUTUBE APP
 
-## Check this out ---> *CLICK ON THE IMAGE*
-[![image](ss.png)]()
+## *CLICK ON THE IMAGE* TO ENJOY !!
+[![image](ss.png)]( https://qwerty-123456-ui.github.io/my-youtube-app/)
