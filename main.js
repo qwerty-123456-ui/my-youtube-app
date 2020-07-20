@@ -6,7 +6,7 @@ $(document).ready(function() {
  var options = {
         part: 'snippet',
         key: key,
-        maxResults: 500,
+        maxResults: 200,
         playlistId: playlistId
     }
 
